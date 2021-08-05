@@ -1,4 +1,4 @@
- # HEROTABLE MODULE ✅ HEROAPPS LLC DONE BY 👨‍💻 [KATHEESKUMAR](mailto:katheeskumar@outlook.com)
+ # HEROTABLE MODULE ✅ HEROAPPS LLC
 
 > **Initialize HeroTable On Document**
 
@@ -72,3 +72,5 @@ var table = new heroTable({
     }
 ]
 ```
+
+ ## DONE BY 👨‍💻 [KATHEESKUMAR](mailto:katheeskumar@outlook.com)
