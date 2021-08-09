@@ -18,6 +18,7 @@ var table = new heroTable({
     title: "Example Table",
     data : [],
     url: "http://localhost/addrbook/users.json",
+    pagination: true, 
     search: true,
     sort: true,
     serverSide: false,
@@ -31,6 +32,8 @@ var table = new heroTable({
  -  `data` : Manualy put json data with key value. example data given on document bottom. 
 
  -  `url` : Enter url `string` format to expect returning output as json response.
+
+-  `pagination` : Locally paginate records. default page record as **5**. you want to change use key `perPage: 10`
 
  -  `search` : Enable or disbale table search use `true` or `false`
 
